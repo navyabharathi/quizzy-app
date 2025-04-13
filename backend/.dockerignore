@@ -1,11 +1,22 @@
-node_modules
+# Dependency directories
+*/node_modules
 npm-debug.log
-Dockerfile
-.dockerignore
-.env.local
-.env
+
+# Build outputs
+dist
+build
+.next
+
+# Version control
 .git
 .gitignore
+
+# Editor directories and files
+.idea
 .vscode
-next.config.js (if you don't need it at runtime)
-*.test.*
+
+# OS files
+.DS_Store
+
+# Server directory (not needed for frontend build)
+server
