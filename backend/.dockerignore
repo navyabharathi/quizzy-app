@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+.env.local
+.env
+.git
+.gitignore
+.vscode
+next.config.js (if you don't need it at runtime)
+*.test.*
