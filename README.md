@@ -16,13 +16,3 @@ Quizzy is a modern, interactive quiz application built with **Next.js** for the 
 - **Backend**: Node.js, Express.js
 - **Database**: SQLite (In-memory DB)
 
-## Installation
-
-To get started with this project locally:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
-   ```
