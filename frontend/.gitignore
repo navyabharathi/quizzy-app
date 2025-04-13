@@ -2,6 +2,5 @@ node_modules
 
 
 build/
-.idea/
-.gradle
+.next
 .DS_Store
